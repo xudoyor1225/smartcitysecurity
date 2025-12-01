@@ -499,3 +499,4 @@ document.addEventListener('DOMContentLoaded', () => {
   const bgMusic = document.getElementById('bgMusic');
   console.log('Music Init:', { musicToggle, bgMusic });
 });
+
